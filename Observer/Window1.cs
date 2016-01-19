@@ -38,10 +38,9 @@ namespace AppV1
 
             // Executer la mise à jour de l'IHM dans le thread de l'IHM
             // C'est une bonne pratique
-            BeginInvoke((MethodInvoker)delegate {
-                afficher();
-            });
+            afficher();
         }
 
+       
     }
 }

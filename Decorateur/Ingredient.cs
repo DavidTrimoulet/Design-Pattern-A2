@@ -11,7 +11,7 @@ namespace Decorateur
         public string Description { get; set; }
         public double Prix { get; set; }
 
-        public abstract double getPrix();
+        public abstract double getPrixFinale();
 
     }
 }

@@ -11,16 +11,17 @@ namespace AppV1
     {
         static void Main(string[] args)
         {
-            DonneesMeteo _maStation = new DonneesMeteo();
-            Window1 _monAffFenetre = new Window1();
-            AffConsole _monAffConsole = new AffConsole();
-            _maStation.enregistrerObservateur(_monAffFenetre);
-            _maStation.enregistrerObservateur(_monAffConsole);
-            _monAffFenetre.Show();
+            DonneesMeteo maStation = new DonneesMeteo();
+            Window1 monAffFenetre = new Window1();
+            AffConsole monAffConsole = new AffConsole();
+            maStation.enregistrerObservateur(monAffFenetre);
+            maStation.enregistrerObservateur(monAffConsole);
+            monAffFenetre.Show();
 
             while (true)
             {
-                _maStation.actualiserMesures();
+                maStation.actualiserMesures();
+                Thread.Sleep(1000);
             }
         }
     }

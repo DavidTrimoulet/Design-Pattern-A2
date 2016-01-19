@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace Decorateur
 {
-    class Chocolat : IngredientSup
+    class Chocolat : IngredientBoisson
     {
-        public Chocolat(Ingredient boisson) : base(boisson)
+        public Chocolat(Ingredient ingredientQueJeDecore) : base(ingredientQueJeDecore)
         {
+            Description = "Chocolat";
             Prix = 0.15;
         }
     }

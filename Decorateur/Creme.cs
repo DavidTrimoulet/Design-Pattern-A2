@@ -6,9 +6,11 @@ using System.Threading.Tasks;
 
 namespace Decorateur
 {
-    class Creme : IngredientSup
+    class Creme : IngredientBoisson
     {
-        public Creme(Ingredient boisson) : base(boisson){
+        public Creme(Ingredient ingredientQueJeDecore) : base(ingredientQueJeDecore)
+        {
+            Description = "Creme";
             Prix = 0.20;
         }
     }

@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Decorateur
 {
-    class Expresso : IngredientBase
+    class Expresso : IngredientBoisson
     {
-        public Expresso()
+        public Expresso(Ingredient ingredientQueJeDecore) : base (ingredientQueJeDecore)
         {
             this.Description = "Expresso";
             this.Prix = 0.40;
