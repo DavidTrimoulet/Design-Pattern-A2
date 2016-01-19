@@ -10,18 +10,17 @@ namespace Decorateur
     {
         static void Main(string[] args)
         {
-            Ingredient _maBoisson = new The();
-            _maBoisson = new Creme(_maBoisson);
-            _maBoisson = new Sucre(_maBoisson);
+            Ingredient maBoisson = new The();
+            maBoisson = new Creme(maBoisson);
+            maBoisson = new Sucre(maBoisson);
 
-            Ingredient _taBoisson = new Expresso();
-            _taBoisson = new Chocolat(_taBoisson);
-            _taBoisson = new Creme(_taBoisson);
+            Ingredient taBoisson = new Expresso();
+            taBoisson = new Chocolat(taBoisson);
+            taBoisson = new Creme(taBoisson);
 
-            Console.WriteLine("Mon the coute : " + _maBoisson.getPrix().ToString());
-            Console.WriteLine("Ton café coute : " + _taBoisson.getPrix().ToString());
+            Console.WriteLine("Mon the coute : " + maBoisson.getPrix().ToString());
+            Console.WriteLine("Ton café coute : " + taBoisson.getPrix().ToString());
             Console.ReadLine();
-
 
         }
     }

@@ -9,7 +9,9 @@ namespace AppV1
     public interface IObservable
     {
         void enregistrerObservateur(IObservateur observateur);
+
         void supprimerObservateur(IObservateur observateur);
+
         void notifierObservateur();
     }
 }

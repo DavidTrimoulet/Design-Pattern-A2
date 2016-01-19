@@ -6,11 +6,14 @@ using System.Threading.Tasks;
 
 namespace Singleton
 {
-    class Singleton
+    public class Singleton
     {
         private static Singleton moiMeme;
 
-        private Singleton(){}
+        private Singleton()
+        {
+            // Constructeur privé
+        }
 
         public static Singleton getInstance()
         {

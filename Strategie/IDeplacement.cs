@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Strategie
 {
-    interface IDeplacement
+    public interface IDeplacement
     {
         void seDeplacer();
     }
