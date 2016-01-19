@@ -19,6 +19,9 @@ obj
 # Windows shortcuts
 *.lnk
 
+# VS files
+.vs
+
 # =========================
 # Operating System Files
 # =========================
