@@ -9,6 +9,7 @@ namespace Decorateur
     class IngredientSup : Ingredient
     {
         public Ingredient BoissonDecore { get; set; }
+
         public IngredientSup(Ingredient boisson)
         {
             BoissonDecore = boisson;
