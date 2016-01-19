@@ -4,24 +4,40 @@ using System.Linq;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace AppV1
 {
     class Program
     {
+        private static DonneesMeteo _maStation;
+        private static Window1 _monAffFenetre;
+        private static AffConsole _monAffConsole;
+
         static void Main(string[] args)
         {
-            DonneesMeteo _maStation = new DonneesMeteo();
-            Window1 _monAffFenetre = new Window1();
-            AffConsole _monAffConsole = new AffConsole();
+            _maStation = new DonneesMeteo();
+            _monAffFenetre = new Window1();
+            _monAffConsole = new AffConsole();
             _maStation.enregistrerObservateur(_monAffFenetre);
             _maStation.enregistrerObservateur(_monAffConsole);
-            _monAffFenetre.Show();
 
+            // Lancement du programme
+            new Thread(Program.Job).Start();
+            Application.EnableVisualStyles();
+            Application.Run(_monAffFenetre);
+
+        }
+
+        public static void Job()
+        {
             while (true)
             {
                 _maStation.actualiserMesures();
+                Thread.Sleep(250);
             }
         }
+
+
     }
 }

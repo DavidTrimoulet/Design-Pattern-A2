@@ -26,19 +26,18 @@ namespace AppV1
             label2.Text = Temp.ToString();
             label4.Text = Humi.ToString();
             label6.Text = Press.ToString();
-            // Demande à la fenêtre la mise à jour
-            Refresh();
         }
 
         
         public void actualiser(int temp, int humi, int press) {
+
             Temp = temp;
             Humi = humi;
             Press = press;
 
-            // Executer la mise à jour de l'IHM dans le thread de l'IHM
-            // C'est une bonne pratique
-            BeginInvoke((MethodInvoker)delegate {
+            // Hardcore !
+            this.BeginInvoke((MethodInvoker)delegate
+            {
                 afficher();
             });
         }

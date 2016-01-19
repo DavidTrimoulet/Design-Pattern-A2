@@ -51,8 +51,10 @@ namespace AppV1
 
         public void notifierObservateur()
         {
-            foreach(IObservateur obs in MesObs)
+            // On parcours chaque observateur
+            foreach (IObservateur obs in MesObs)
             {
+                // Et on lui notifie l'événement
                 obs.actualiser(Temp, Humidite, Pression);
             }
         }
