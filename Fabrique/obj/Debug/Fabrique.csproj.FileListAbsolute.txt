@@ -1,0 +1,9 @@
+C:\Users\David\Dropbox\David\Code source\DP\Fabrique\bin\Debug\Fabrique.exe.config
+C:\Users\David\Dropbox\David\Code source\DP\Fabrique\obj\Debug\Fabrique.csprojResolveAssemblyReference.cache
+C:\Users\David\Dropbox\David\Code source\DP\Fabrique\bin\Debug\Fabrique.exe
+C:\Users\David\Dropbox\David\Code source\DP\Fabrique\bin\Debug\Fabrique.pdb
+C:\Users\David\Dropbox\David\Code source\DP\Fabrique\obj\Debug\Fabrique.exe
+C:\Users\David\Dropbox\David\Code source\DP\Fabrique\obj\Debug\Fabrique.pdb
+C:\Users\dtrimoulet\Dropbox\David\Code source\DP\Fabrique\bin\Debug\Fabrique.exe.config
+C:\Users\dtrimoulet\Dropbox\David\Code source\DP\Fabrique\obj\Debug\Fabrique.exe
+C:\Users\dtrimoulet\Dropbox\David\Code source\DP\Fabrique\obj\Debug\Fabrique.pdb

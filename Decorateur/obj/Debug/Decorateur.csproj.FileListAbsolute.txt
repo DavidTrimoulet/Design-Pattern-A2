@@ -1,0 +1,18 @@
+c:\Users\David\documents\visual studio 2015\Projects\DP_Obs\Decorateur\bin\Debug\Decorateur.exe.config
+c:\Users\David\documents\visual studio 2015\Projects\DP_Obs\Decorateur\bin\Debug\Decorateur.exe
+c:\Users\David\documents\visual studio 2015\Projects\DP_Obs\Decorateur\bin\Debug\Decorateur.pdb
+c:\Users\David\documents\visual studio 2015\Projects\DP_Obs\Decorateur\obj\Debug\Decorateur.csprojResolveAssemblyReference.cache
+c:\Users\David\documents\visual studio 2015\Projects\DP_Obs\Decorateur\obj\Debug\Decorateur.exe
+c:\Users\David\documents\visual studio 2015\Projects\DP_Obs\Decorateur\obj\Debug\Decorateur.pdb
+C:\Users\David\Documents\Visual Studio 2015\Projects\DP\Decorateur\bin\Debug\Decorateur.exe.config
+C:\Users\David\Documents\Visual Studio 2015\Projects\DP\Decorateur\obj\Debug\Decorateur.exe
+C:\Users\David\Documents\Visual Studio 2015\Projects\DP\Decorateur\obj\Debug\Decorateur.pdb
+C:\Users\dtrimoulet\Dropbox\David\Code source\DP\Decorateur\bin\Debug\Decorateur.exe.config
+C:\Users\dtrimoulet\Dropbox\David\Code source\DP\Decorateur\obj\Debug\Decorateur.exe
+C:\Users\dtrimoulet\Dropbox\David\Code source\DP\Decorateur\obj\Debug\Decorateur.pdb
+C:\Users\dtrimoulet\Dropbox\David\Code source\DP\Decorateur\bin\Debug\Decorateur.exe
+C:\Users\dtrimoulet\Dropbox\David\Code source\DP\Decorateur\bin\Debug\Decorateur.pdb
+C:\Users\dtrimoulet\Dropbox\David\Code source\DP\Decorateur\obj\Debug\Decorateur.csprojResolveAssemblyReference.cache
+C:\Users\David\Dropbox\David\Code source\DP\Decorateur\bin\Debug\Decorateur.exe.config
+C:\Users\David\Dropbox\David\Code source\DP\Decorateur\obj\Debug\Decorateur.exe
+C:\Users\David\Dropbox\David\Code source\DP\Decorateur\obj\Debug\Decorateur.pdb

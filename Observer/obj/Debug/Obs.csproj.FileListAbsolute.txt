@@ -1,0 +1,7 @@
+c:\Users\David\documents\visual studio 2015\Projects\DP_Obs\AppV1\bin\Debug\AppV1.exe.config
+c:\Users\David\documents\visual studio 2015\Projects\DP_Obs\AppV1\bin\Debug\AppV1.exe
+c:\Users\David\documents\visual studio 2015\Projects\DP_Obs\AppV1\bin\Debug\AppV1.pdb
+c:\Users\David\documents\visual studio 2015\Projects\DP_Obs\AppV1\obj\Debug\AppV1.Window1.resources
+c:\Users\David\documents\visual studio 2015\Projects\DP_Obs\AppV1\obj\Debug\Obs.csproj.GenerateResource.Cache
+c:\Users\David\documents\visual studio 2015\Projects\DP_Obs\AppV1\obj\Debug\AppV1.exe
+c:\Users\David\documents\visual studio 2015\Projects\DP_Obs\AppV1\obj\Debug\AppV1.pdb

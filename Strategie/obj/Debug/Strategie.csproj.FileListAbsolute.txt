@@ -1,0 +1,6 @@
+C:\Users\dtrimoulet\Dropbox\David\Code source\DP\Strategie\bin\Debug\Strategie.exe.config
+C:\Users\dtrimoulet\Dropbox\David\Code source\DP\Strategie\bin\Debug\Strategie.exe
+C:\Users\dtrimoulet\Dropbox\David\Code source\DP\Strategie\bin\Debug\Strategie.pdb
+C:\Users\dtrimoulet\Dropbox\David\Code source\DP\Strategie\obj\Debug\Strategie.csprojResolveAssemblyReference.cache
+C:\Users\dtrimoulet\Dropbox\David\Code source\DP\Strategie\obj\Debug\Strategie.exe
+C:\Users\dtrimoulet\Dropbox\David\Code source\DP\Strategie\obj\Debug\Strategie.pdb
